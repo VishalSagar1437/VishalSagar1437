@@ -23,8 +23,7 @@ Follow me at [instagram](https://www.instagram.com/vishalsagar_1437/)
      - Communication
 
    ## Skills I'm learning
-   - Java DSA
-   - CodeBlock
+   - Java 
    - C language
 ## Contact me
 
