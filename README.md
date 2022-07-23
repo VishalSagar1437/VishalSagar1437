@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/Aditya664/Aditya664/main/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313434342f312a5a352d6c576b797a635242356168676d3971797876672e706e67.png"/>
+
 ### Hi there<img src ="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height ="20px"/>
 I am **Vishal Sagar**
 ## About me
@@ -23,7 +25,7 @@ I am 1st year IT student. I am an entusiastic person always ready to learn and e
    ## Skills I'm learning📝
    - Java 
    - C language
-## Contact me
+## Connect with me<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height ="40px"/> 
 
 [<img src ="https://res.cloudinary.com/practicaldev/image/fetch/s--5wwVBeRi--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/f3mn2sw6is59zrxhzj51.png" height="30px"/>](https://github.com/VishalSagar1437/VishalSagar1437) [<img src ="https://www.ingenuitydigital.com/wp-content/uploads/2017/05/LinkedIn.png" height="30px"/>](https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin) [<img src="https://th.bing.com/th/id/R.1e1fe7050fc9d37f3091fa0f40c7fb13?rik=%2bnNxMnyBnDt7Pg&riu=http%3a%2f%2fwilltorock.com%2fwp-content%2fuploads%2f2020%2f02%2fInstagram-Logo.png&ehk=Z8ByAIuOScXjUE1f6M3hvUIiItUAyqJasbgeEBtXi9E%3d&risl=&pid=ImgRaw&r=0" height="30px"/>](https://www.instagram.com/vishalsagar_1437/)
 
