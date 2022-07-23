@@ -1,39 +1,47 @@
-<img src="https://raw.githubusercontent.com/Aditya664/Aditya664/main/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313434342f312a5a352d6c576b797a635242356168676d3971797876672e706e67.png"/>
+   <img src="https://usict.acm.org/assets/images/acm1.png" height="200px"/> 
+   
+## Introduction<img src ="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height ="20px"/>
+**GGSIP University USS ACM Student Chapter** was launched in 2019 to promote the Computer Science culture in USICT. At the Student Chapter, we see a world where computing helps solve tomorrow’s problems, where we use our knowledge and skills to advance the profession and make a positive impact.
 
-### Hi there<img src ="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height ="20px"/>
-I am **Vishal Sagar**
-## About me
-I am 1st year IT student. I am an entusiastic person always ready to learn and explore new things. 
-## Coding Skills
+## Events
+[<img src="https://usict.acm.org/upload/announcements/Rogue-reveal.png" height="200"/>](https://usict.acm.org/eventYear.php?year=2022)<img src ="https://www.vippng.com/png/detail/13-130796_rectangle-line-horizontal-line-angle-white-line-rectangle.png" height="10px"/>[<img src="https://usict.acm.org/upload/announcements/9.png" height="200px"/>](https://usict.acm.org/eventYear.php?year=2022)<img src ="https://www.vippng.com/png/detail/13-130796_rectangle-line-horizontal-line-angle-white-line-rectangle.png" height="10px"/>[<img src="https://usict.acm.org/upload/announcements/7.png" height="200px"/>](https://usict.acm.org/eventYear.php?year=2022)<img src ="https://www.vippng.com/png/detail/13-130796_rectangle-line-horizontal-line-angle-white-line-rectangle.png" height="10px"/>[<img src="https://usict.acm.org/upload/announcements/5.png" height="200px"/>](https://usict.acm.org/eventYear.php?year=2022)
+
+
+## Our Recent blogs
+[<img src="https://usict.acm.org/upload/blogs/socialMediaLiteracy.png" height="150px"/>](https://usict.acm.org/singleBlog.php?Id=27)<img src ="https://www.vippng.com/png/detail/13-130796_rectangle-line-horizontal-line-angle-white-line-rectangle.png" height= "1px" width="20px">[<img src="https://usict.acm.org/upload/blogs/blogAI.png" height="150px"/>]()
+
+<img src ="https://www.vippng.com/png/detail/13-130796_rectangle-line-horizontal-line-angle-white-line-rectangle.png" height="1px" width="50px">[**By Manasi Prabhakaran**](https://usict.acm.org/singleBlog.php?Id=27)<img src ="https://www.vippng.com/png/detail/13-130796_rectangle-line-horizontal-line-angle-white-line-rectangle.png" height="1px" width="150px">                  [**By Harsh Goyal**](https://usict.acm.org/singleBlog.php?Id=26)
+
+
+
+  
+  - **CLUBS**
+     - **DevSource** - The Development Group is a community of students highly enthusiastic about OpenSource, app, and Web Development. 
+     - **XD** - The Designing Group aims to promote creativity and to increase the technical knowledge of the students in graphic designing and UI/UX.
+     - **enGame** - The Gaming Group of USICT.
+     - **CyberChain** - The Cryptography, Cyber security and BlockChain Group.
+     - **ICPC** - The Competitive Programming Group.
+     - **Entrepreneurs' Arena** - club that cultivates and equips businessmen and Women for the future.
+     - **RobIOTics** - The Robotics, IoT Group is the Electronic Club of USICT ACM.
+     - **Research Cell** - Club that aims towards flourishing the research culture of GGSIPU.
+## Find us<img src="https://static.vecteezy.com/system/resources/previews/000/366/004/original/location-vector-icon.jpg" height="30px"/>
 <p>
-  <img src = "https://th.bing.com/th/id/OIP.aZjgfHcHkusg4or_WQLswAHaHa?pid=ImgDet&rs=1" height="90px"/>
+Dean Office, USICT, GGSIPU Sector 16C, Dwarka, Delhi</p>
+
+## Call us at<img src="https://th.bing.com/th/id/R.f7c88e4dc1a01f2fcecea59d13e0b137?rik=n2wya4FbbnWdew&riu=http%3a%2f%2fhatterasfishingcaptain.com%2fwp-content%2fuploads%2f2016%2f02%2fcaptain-stowe-head-boats-icons-07.png&ehk=dJua8xwVlVz7F4iPQKAT7emgmD4PQ2RNzM1v4dwQIUU%3d&risl=&pid=ImgRaw&r=0" height="30px"/>
+<p>
+011-25302702 </p>
+
+
+## Contact us<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height ="40px"/> 
+
+[<img src = "https://th.bing.com/th/id/OIP.1x5qs5pV6hF3ePLEYp94XgHaHa?pid=ImgDet&rs=1" height="50px"/>](https://www.facebook.com/acmusict)<img src ="https://www.vippng.com/png/detail/13-130796_rectangle-line-horizontal-line-angle-white-line-rectangle.png" height="5px"/>[<img src= "https://logodix.com/logo/1215998.png" height="50px"/>](https://www.youtube.com/channel/UCI7her-mYrb7QM0t9S_nA_Q)<img src ="https://www.vippng.com/png/detail/13-130796_rectangle-line-horizontal-line-angle-white-line-rectangle.png" height="5px"/>[<img src="https://www.technobezz.com/files/uploads/2015/02/instagram-1581266_1920.jpg" height="50px"/>](https://www.instagram.com/acmusict/)[<img src="https://logos-world.net/wp-content/uploads/2020/11/GitHub-Symbol.png" height ="50px"/>](https://github.com/usict-acm/ACM-new)[<img src="https://th.bing.com/th/id/OIP.nmHobRJPgkH-7YQqXsbCqwHaEK?pid=ImgDet&rs=1" height="45px"/>](https://discord.com/invite/fbAJs85rzT)<img src ="https://www.vippng.com/png/detail/13-130796_rectangle-line-horizontal-line-angle-white-line-rectangle.png" height="7px"/>[<img src="https://cdn.windowsreport.com/wp-content/uploads/2019/08/gmail-image.jpg" height="40px" width="50px"/>](info@usict.acm.org)
   
-  </p>
-  
-  ## Other Skills
-  
-  - **Languages**
-     - Hindi
-     - English
-  
-  - **Soft Skills**
-     - Teamwork
-     - Problem Solving
-     - Leadership
-     - Communication
-
-   ## Skills I'm learning📝
-   - Java 
-   - C language
-## Connect with me<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height ="40px"/> 
-
-[<img src ="https://res.cloudinary.com/practicaldev/image/fetch/s--5wwVBeRi--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/f3mn2sw6is59zrxhzj51.png" height="30px"/>](https://github.com/VishalSagar1437/VishalSagar1437) [<img src ="https://www.ingenuitydigital.com/wp-content/uploads/2017/05/LinkedIn.png" height="30px"/>](https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin) [<img src="https://th.bing.com/th/id/R.1e1fe7050fc9d37f3091fa0f40c7fb13?rik=%2bnNxMnyBnDt7Pg&riu=http%3a%2f%2fwilltorock.com%2fwp-content%2fuploads%2f2020%2f02%2fInstagram-Logo.png&ehk=Z8ByAIuOScXjUE1f6M3hvUIiItUAyqJasbgeEBtXi9E%3d&risl=&pid=ImgRaw&r=0" height="30px"/>](https://www.instagram.com/vishalsagar_1437/)
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VishalSagar1437&showicons=true&theme=dracula&)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VishalSagar1437&theme=dark)](https://git.io/streak-stats)
-
      
+     
+***
+
+<img src ="https://www.vippng.com/png/detail/13-130796_rectangle-line-horizontal-line-angle-white-line-rectangle.png" width = "100px"/>**© Conceptualized, Designed and Developed by Office Bearers of GGSIP University USS ACM Student Chapter**
  
      
   
