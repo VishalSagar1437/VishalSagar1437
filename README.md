@@ -1,4 +1,4 @@
-   <img src="https://usict.acm.org/assets/images/acm1.png" height="200px"/> 
+<!--    <img src="https://usict.acm.org/assets/images/acm1.png" height="200px"/> 
    
 ## Introduction<img src ="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height ="20px"/>
 **GGSIP University USS ACM Student Chapter** was launched in 2019 to promote the Computer Science culture in USICT. At the Student Chapter, we see a world where computing helps solve tomorrow’s problems, where we use our knowledge and skills to advance the profession and make a positive impact.
@@ -46,3 +46,4 @@ Dean Office, USICT, GGSIPU Sector 16C, Dwarka, Delhi</p>
      
   
   
+ -->
