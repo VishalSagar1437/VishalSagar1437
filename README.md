@@ -1,16 +1,26 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EFFF00,100:a82da8&height=200&section=header&text=Welcome%20to%20Vishal's%20GitHub!&fontSize=30&fontColor=fff" />
+</p>
 <h1 align="center">Hi 👋, I'm Vishal</h1>
-<h3 align="center">Aspiring SDE with a Passion for Coding and Innovation</h3>
+<h3 align="center">I build scalable systems with a strong focus on reliability, performance, and execution—taking products from idea to deployment with speed and ownership.
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalsagar1437&label=Profile%20views&color=0e75b6&style=flat" alt="vishalsagar1437" /> </p>
 
-- 🌱 I’m currently learning **Node.js and MongoDB**
+- 🌱 I’m currently learning **Kafka & MCP Server**
 
 - 📫 How to reach me **vishalsagar1437@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vishal-sagar-4267b3212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vishal-sagar-4267b3212/" height="30" width="40" /></a>
-<a href="https://instagram.com/vishalsagar_1437" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vishalsagar_1437" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vishal-sagar-4267b3212" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+
+<a href="https://instagram.com/vishalsagar_1437" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+</a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
